@@ -1,15 +1,5 @@
 # ts_2019_2
 
----
-title: "Temp"
-author: "Alan Ponce"
-date: "13/05/2019"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 
 
